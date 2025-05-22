@@ -13,8 +13,7 @@
 	<artifactId>springbib</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbib</name>
-	<description>Estudo de caso Java para revisao de Modelagem Conceitual com
-		UML</description>
+	<description>Java Case Study for Conceptual Modeling Review with UML</description>
 	<url />
 	<licenses>
 		<license />
